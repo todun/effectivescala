@@ -9,11 +9,11 @@ It is "typeset" in [markdown](http://daringfireball.net/projects/markdown/) usin
 To render the document:
 
 	make
-	
+
 To publish to github pages:
 
 	make pub
-	
+
 ## Contributing
 
 Want to contribute and improve the guide? Have a bug or a question? 
